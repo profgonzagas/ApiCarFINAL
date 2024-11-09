@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApiWELL</string>
+    <string name="could_not_retrieve_vehicle_data">Could_not\n</string>
+    <string name="error_validate_form">Preencha o campo: %1$s\n</string>
+    <string name="erro_nao_conhecido">Erro não conhecido</string>
+    <string name="success_create">Item %1$s criado com sucesso!</string>
+    <string name="logout">Logout</string>
+</resources>
